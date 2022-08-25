@@ -1,0 +1,13 @@
+name: test_shinyapps
+title: test_shinyapps
+username:
+account: icprb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6827651
+bundleId: 6232961
+url: https://icprb.shinyapps.io/test_shinyapps/
+when: 1661337264.47186
+lastSyncTime: 1661337264.47186
+asMultiple: FALSE
+asStatic: FALSE
